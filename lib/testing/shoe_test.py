@@ -37,6 +37,3 @@ class TestShoe:
         stan_smith = Shoe("Adidas", 9)
         stan_smith.cobble()
         assert(stan_smith.condition == "New")
-        
-        
-   
